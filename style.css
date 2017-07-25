@@ -16,44 +16,50 @@ body{
 }
 .header{
     height: 810px;
-    background: url('imj/header/fon.png') top right no-repeat;
+    background: url('imj/header/fon.png') center center no-repeat;
+    background-size: cover;
 }
 
 .block1{
     height: 868px;
     margin-top: -182px;
-    background: url('imj/block1/fon.png') top right no-repeat;
+    background: url('imj/block1/fon.png') center center no-repeat;
+    background-size: cover;
 }
 .block2 {
     height: 854px;
     margin-top: -119px;
-    background: url(imj/block2/fon.png) top right no-repeat;
+    background: url(imj/block2/fon.png) right top no-repeat;
     z-index: 1;
 }
 .block3 {
     height: 646px;
-    background: url(imj/block3/fon.png) top right no-repeat;
+    background: url(imj/block3/fon.png) center center no-repeat;
     margin-top: -42px;
+    background-size: cover;
 }
 .block4{
     height: 2807px;
     margin-top: -1px;
 
-    background: url('imj/block4/fon-q-60.png') top right no-repeat,
+    background: url('imj/block4/fon-q-60.png') center center no-repeat,
                 url('imj/block4/fon-q-90.png') 0px 653px no-repeat,
                 url('imj/block4/fon-q-80.png') 0px 1358px no-repeat,
                 url('imj/block4/fon-q-50.png') 0px 2094px no-repeat;
     z-index: 1;
+    background-size: cover;
 }
 .block5{
     height: 597px;
     margin-top: -64px;
 
-    background: url('imj/block5/fon.png') top right no-repeat;
+    background: url('imj/block5/fon.png') center center no-repeat;
+    background-size: cover;
 }
 .block6{
     height: 868px;
-    background: url('imj/block6/fon.png') top right no-repeat;
+    background: url('imj/block6/fon.png') center center no-repeat;
+    background-size: cover;
 }
 .block7{
     height: 750px;
@@ -62,7 +68,8 @@ body{
 .block8{
     height: 868px;
 
-    background: url('imj/block8/fon.png') top right no-repeat;
+    background: url('imj/block8/fon.png') center center no-repeat;
+    background-size: cover;
 }
 .footer{
     background: #fff;   
