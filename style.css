@@ -27,20 +27,21 @@ body {
     /* height: 810px; */
     padding-bottom: 42%;
     background: url('imj/header/fon.png') 0px 0px no-repeat;
+    z-index: 1;
 }
 
 .block1 {
     /* height: 868px; */
     padding-bottom: 45%;
-    margin-top: -182px;
-    background: url('imj/block1/watch.png') 0px 0px no-repeat 100% 100%,
+    margin-top: -9.4%;
+    background: url('imj/block1/watch.png') 95% 0px no-repeat,
                 url('imj/block1/fon.png') 0px 0px no-repeat;
 }
 
 .block2 {
     /* height: 854px; */
-    padding-bottom: 47.5%;
-    margin-top: -119px;
+    padding-bottom: 47.3%;
+    margin-top: -5.5%;
     background: url(imj/block2/fon.png) 0px 0px no-repeat, url(imj/block2/map.png) center 1px no-repeat;
     z-index: 1;
 }
@@ -49,13 +50,13 @@ body {
     /* height: 646px; */
     padding-bottom: 34%;
     background: url(imj/block3/fon.png) 0px 0px no-repeat;
-    margin-top: -96px;
+    margin-top: -5%;
 }
 
 .block4 {
     /* height: 2807px; */
     padding-bottom: 146%;
-    margin-top: -8px;
+    margin-top: -0.5%;
     background: url('imj/block4/fon-q-60.png') 0px 0px no-repeat, 
                 url('imj/block4/fon-q-90.png') 0px 32.5% no-repeat, 
                 url('imj/block4/fon-q-80.png') 0px 67.5% no-repeat, 
@@ -66,7 +67,7 @@ body {
 .block5 {
     /* height: 597px; */
     padding-bottom: 31%;
-    margin-top: -87px;
+    margin-top: -3.6%;
     background: url('imj/block5/fon.png') 0px 0px no-repeat;
 }
 
@@ -83,7 +84,7 @@ body {
 }
 
 .block8 {
-    margin-top: -255px;
+    margin-top: -12%;
     /* height: 868px; */
     padding-bottom: 32.5%;
     background: url('imj/block8/fon.png') 0px 0px no-repeat;
@@ -91,7 +92,7 @@ body {
 }
 
 .footer {
-    margin-top: -70px;
+    margin-top: -4.1%;
     /* height: 560px; */
     background: url('imj/footer/fon.png') 0px 0px no-repeat;
 }
