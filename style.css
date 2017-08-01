@@ -58,13 +58,9 @@ body {
     /* height: 2807px; */
     padding-bottom: 146%;
     margin-top: -0.5%;
-    background: url('imj/block4/watch-q-60.png') 0px 0px no-repeat, 
-                url('imj/block4/fon-q-60.png') 0px 0px no-repeat, 
-                url('imj/block4/watch-q-90.png') 0px 32.5% no-repeat, 
+    background: url('imj/block4/fon-q-60.png') 0px 0px no-repeat, 
                 url('imj/block4/fon-q-90.png') 0px 32.5% no-repeat, 
-                url('imj/block4/watch-q-80.png') 0px 67.5% no-repeat, 
                 url('imj/block4/fon-q-80.png') 0px 67.5% no-repeat, 
-                url('imj/block4/watch-q-50.png') 0px 99.8% no-repeat, 
                 url('imj/block4/fon-q-50.png') 0px 99.8% no-repeat;
     z-index: 1;
 }
@@ -131,6 +127,13 @@ body {
 .header__content {
     background: url(imj/header/watch.png) 0px 70% no-repeat;
     background-size: 40%;
+}
+.block4__content {
+    background: url('imj/block4/watch-q-60.png') 13% 6% no-repeat, 
+                url('imj/block4/watch-q-90.png') 80% 36.7% no-repeat, 
+                url('imj/block4/watch-q-80.png') 13% 70.5% no-repeat, 
+                url('imj/block4/watch-q-50.png') 100% 99.8% no-repeat;
+    background-size: 30%, 27%, 30%, 40%;
 }
 .block1__content {
     
