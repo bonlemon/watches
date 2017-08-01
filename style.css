@@ -42,7 +42,8 @@ body {
     /* height: 854px; */
     padding-bottom: 47.3%;
     margin-top: -7%;
-    background: url(imj/block2/fon.png) 0px 0px no-repeat, url(imj/block2/map.png) center 1px no-repeat;
+    background: url(imj/block2/fon.png) 0px 0px no-repeat,
+                url(imj/block2/map.png) center 1px no-repeat;
     z-index: 1;
 }
 
@@ -129,15 +130,14 @@ body {
     background-size: 40%;
 }
 .block4__content {
-    background: url('imj/block4/watch-q-60.png') 13% 6% no-repeat, 
-                url('imj/block4/watch-q-90.png') 80% 36.7% no-repeat, 
-                url('imj/block4/watch-q-80.png') 13% 70.5% no-repeat, 
-                url('imj/block4/watch-q-50.png') 100% 99.8% no-repeat;
+    background: url(imj/block4/watch-q-60.png) 13% 6% no-repeat, 
+                url(imj/block4/watch-q-90.png) 90% 36.7% no-repeat, 
+                url(imj/block4/watch-q-80.png) 13% 70.5% no-repeat, 
+                url(imj/block4/watch-q-50.png) 95% 98.8% no-repeat;
     background-size: 30%, 27%, 30%, 40%;
 }
-.block1__content {
-    
-    
+.block2__content {
+    background: url(imj/block2/object.png) 90% 90% no-repeat;
 }
 
 /*.footer__content {
