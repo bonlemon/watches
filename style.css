@@ -24,14 +24,12 @@ body {
 }
 
 .header {
-    /* height: 810px; */
     padding-bottom: 43%;
     background: url(imj/header/fon.png) 0px 0px no-repeat;
     z-index: 1;
 }
 
 .block1 {
-    /* height: 868px; */
     padding-bottom: 46%;
     margin-top: -10.4%;
     background: url(imj/block1/watch.png) 90% no-repeat,
@@ -39,7 +37,6 @@ body {
 }
 
 .block2 {
-    /* height: 854px; */
     padding-bottom: 47.3%;
     margin-top: -7%;
     background: url(imj/block2/fon.png) 0px 0px no-repeat,
@@ -48,7 +45,6 @@ body {
 }
 
 .block3 {
-    /* height: 646px; */
     padding-bottom: 34%;
     background: url(imj/block3/baby.png) right 0px no-repeat,
                 url(imj/block3/fon.png) 0px 0px no-repeat;
@@ -56,7 +52,6 @@ body {
 }
 
 .block4 {
-    /* height: 2807px; */
     padding-bottom: 146%;
     margin-top: -0.5%;
     background: url('imj/block4/fon-q-60.png') 0px 0px no-repeat, 
@@ -67,7 +62,6 @@ body {
 }
 
 .block5 {
-    /* height: 597px; */
     padding-bottom: 31%;
     margin-top: -3.6%;
     background: url('imj/block5/fon.png') 0px 0px no-repeat;
@@ -79,8 +73,6 @@ body {
 }
 
 .block7 {
-    /*margin-top: -12%;*/
-    /* height: 868px; */
     padding-bottom: 32.5%;
     background: url('imj/block7/fon.png') 0px 0px no-repeat;
     z-index: 2;
@@ -102,18 +94,10 @@ body {
 }
 
 
+
 /*** CONTENT BLOCK **/
 
-.header__content,
-.block1__content,
-.block2__content,
-.block3__content,
-.block4__content,
-.block5__content,
-.block6__content,
-.block7__content,
-.footer__content,
-.footer-white__content {
+.content{
     position: absolute;
     margin: auto;
     position: absolute;
@@ -122,7 +106,7 @@ body {
     bottom: 0;
     right: 0;
     border: 1px solid black; 
-    width: 70%;
+    width: 1150px;
     height: 100%;
 }
 .header__content {
