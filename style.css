@@ -64,7 +64,9 @@ body {
     cursor: pointer;
 }
 
-
+.colored {
+    color: #FA6ACE !important;
+}
 
 /* HEADER */
 
@@ -107,10 +109,6 @@ body {
     margin: auto;
 }
 
-.header h1.colored {
-    color: #FA6ACE;
-}
-
 .header h2 {
     font-family: 'OpenSans', sans-serif;
     font-size: 2vw;
@@ -128,6 +126,7 @@ body {
     width: 65%;
     padding-top: 15px;
 }
+
 
 
 
@@ -149,10 +148,6 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 2.5vw;
     letter-spacing: -1.5px;
-}
-
-.block1 span.colored {
-    color: #FA6ACE;
 }
 
 .block1 p {
@@ -216,10 +211,6 @@ body {
     letter-spacing: -1.5px;
 }
 
-.block2 span.colored {
-    color: #FA6ACE;
-}
-
 .block2 p {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.1vw;
@@ -275,10 +266,6 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 2.7vw;
     letter-spacing: -1.5px;
-}
-
-.block3 span.colored {
-    color: #FA6ACE;
 }
 
 .block3 p {
