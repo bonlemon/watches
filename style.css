@@ -358,9 +358,48 @@ body {
 /* BLOCK 6 */
 
 .block6 {
-    padding-bottom: 67%;
+    padding-bottom: 90%;
     background: #fff;
     color: #39354D;
+}
+
+.block6 .delivery1,
+.block6 .delivery2 {
+    position: absolute;
+    width: 40%;
+    margin-top: 5%;
+}
+
+.block6 .delivery1 {
+    margin-left: 2%;
+}
+
+.block6 .delivery2 {
+    margin-left: 52%;
+}
+
+.block6 .delivery3{
+    margin-top: 50%;
+}
+
+.block6 .deliveryImg {
+    height: 6.6vw;
+    padding-left: 18%;
+    margin-left: 35%;
+    margin-bottom: 15%;
+    margin-top: 15%;
+    padding-top: 2%;
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.block6 .delivery1 .deliveryImg {
+    background-image: url(img/block6/courierDelivery.svg);
+}
+
+.block6 .delivery2 .deliveryImg {
+    background-image: url(img/block6/postDelivery.svg);
 }
 
 .block6 h1 {
